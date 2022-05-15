@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "7HGBbYzFWjZydn9NfiONnprvBQBImnIloJfKngKrQAI+2ApGk0UNF3e2GXZG/35F8YPqys7C05w9KrLr/KIZzw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Rail\\Desktop\\AzTU_tasks\\FileStrem,FileIO\\FileStrem,FileIO\\FileStrem,FileIO.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Rail\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
