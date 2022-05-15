@@ -1,0 +1,41 @@
+Ate4 folderi yaradirsiz daha sonra bu folder-in ichinde Students file-i yaradirsiz.
+
+Students File-da her hansi bir text yazirsiz
+
+Hemen bu folder-in ichinde diger bir folder yaradirsiz UpperDegrees hemen bu folderin ichinde AnyStudents file-i var.
+
+Birbasha olaraq UpperDegress folderini silmeye chalishin.
+
+
+UpperDegress folderinde ki olan AnyStudents file-da olan texti oxuyub Console-a chixardin.
+
+
+
+
+
+
+Students classiniz var:Name,Degree propertyleri var
+
+Group classiniz var:Name ve Students type-dan list var
+
+
+Group classindan object yaradib Studentleri bu liste elave edirsiz.
+Daha sonra hemen bu listi serialize edirsiz json file-na
+
+
+Product classiniz olacaq:Id,Name,Price
+OrderItem:Id,TotalPrice,Count,Product
+
+
+
+Order:ID ve OrderITem type-dan List
+
+
+
+
+
+
+
+
+
+
